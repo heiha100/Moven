@@ -9,9 +9,11 @@ typora-copy-images-to: ./res
 ⚡️一款待机显示App
 🌈支持精美的⌚️时钟、☁️天气、🎵音乐等组件, 让你的手机成为精美的桌面摆件
 
+[**👇点击下载**](https://github.com/heiha100/Moven/releases/download/v1.0.alpha/Moven.1.0.alpha.apk)
+
 ### 更新记录
 
-#### 2023.12.5 - v1.0.alpha
+#### [2023.12.5 - v1.0.alpha](https://github.com/heiha100/Moven/releases/download/v1.0.alpha/Moven.1.0.alpha.apk)
 
 - 支持5款时钟组件、1款天气组件和1款音乐组件
   - 时钟组件
