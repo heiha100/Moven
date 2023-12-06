@@ -11,13 +11,11 @@ typora-copy-images-to: ./res
 
 👇**下载链接**
 
-- [Github](https://github.com/heiha100/Moven/releases/download/v1.0.alpha/Moven.1.0.alpha.apk)
-
-- [123网盘](https://www.123pan.com/s/QXoajv-GheQH.html)
+- [123网盘](https://www.123pan.com/s/QXoajv-8heQH.html)
 
 ### 更新记录
 
-#### [2023.12.5 - v1.0.alpha](https://github.com/heiha100/Moven/releases/download/v1.0.alpha/Moven.1.0.alpha.apk)
+#### [2023.12.5 - v1.0.alpha](https://www.123pan.com/s/QXoajv-8heQH.html)
 
 - 支持5款时钟组件、1款天气组件和1款音乐组件
   - 时钟组件
