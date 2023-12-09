@@ -7,13 +7,22 @@ typora-copy-images-to: ./res
 # Moven
 
 ⚡️一款待机显示App
-🌈支持精美的⌚️时钟、☁️天气、🎵音乐等组件, 让你的手机成为精美的桌面摆件
+🌈支持精美的⌚️时钟、☁️天气、🎵音乐等组件, 让你的手机成为绝美的桌面摆件
 
 👇**下载链接**
 
-- [123网盘](https://www.123pan.com/s/QXoajv-8heQH.html)
+- [123网盘](https://www.123pan.com/s/QXoajv-PHeQH.html)
 
 ### 更新记录
+
+#### [2023.12.8 - v1.1.alpha](https://www.123pan.com/s/QXoajv-PHeQH.html)
+
+- 新增记忆最后使用组件功能: 离开并杀死应用后, 再次打开会恢复到上次使用的组件
+
+- 修复Android9上, 「Moven」没有全屏显示, 展示白色状态栏的问题
+- 修复熄屏状态下会隔一段时间闪回锁屏界面的问题
+- 修复冷启动闪烁的问题
+- 修复霓虹灯时钟偶现消失的问题
 
 #### [2023.12.5 - v1.0.alpha](https://www.123pan.com/s/QXoajv-8heQH.html)
 
