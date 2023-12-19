@@ -23,6 +23,7 @@ typora-copy-images-to: ./res
 - 新增一个半屏的天气组件
 - 修复长时间运行时间不准确的bug
 - 修复组件偶现无法添加的bug
+- 优化长按动画
 
 #### [2023.12.8 - v1.1.alpha](https://www.123pan.com/s/QXoajv-PHeQH.html)
 
